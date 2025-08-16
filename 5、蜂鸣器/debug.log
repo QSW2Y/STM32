@@ -1,0 +1,27 @@
+[0119/152443.407:INFO:skin_prom_main.cpp(112)] skinprom start
+[0119/152443.859:INFO:skin_prom_main.cpp(137)] skinprom end
+[0123/145105.209:INFO:skin_prom_main.cpp(112)] skinprom start
+[0123/145105.653:INFO:skin_prom_main.cpp(137)] skinprom end
+[0123/150110.726:INFO:skin_prom_main.cpp(112)] skinprom start
+[0123/150111.327:INFO:skin_prom_main.cpp(137)] skinprom end
+[0123/151405.042:INFO:skin_prom_main.cpp(112)] skinprom start
+[0123/151405.564:INFO:skin_prom_main.cpp(137)] skinprom end
+[0123/153650.422:INFO:skin_prom_main.cpp(112)] skinprom start
+[0123/153651.009:INFO:skin_prom_main.cpp(137)] skinprom end
+[0123/154244.362:INFO:skin_prom_main.cpp(112)] skinprom start
+[0123/154244.730:INFO:skin_prom_main.cpp(137)] skinprom end
+[0123/155549.258:INFO:skin_prom_main.cpp(112)] skinprom start
+[0123/155549.744:INFO:skin_prom_main.cpp(137)] skinprom end
+[0123/225150.441:INFO:skin_prom_main.cpp(112)] skinprom start
+[0123/225150.721:ERROR:url_resource_cache.cpp(87)] Get or Create error: https://ime-store-cdn.gtimg.com/pc/uploadImage/2024/01/23/17059960548437_former.png, 
+[0123/225150.721:ERROR:skin_prom_updater.cpp(264)] download bk_image error
+[0123/225150.721:ERROR:skin_prom_updater.cpp(170)] dl res
+[0123/225150.721:INFO:skin_prom_main.cpp(137)] skinprom end
+[0123/225235.237:INFO:skin_prom_main.cpp(112)] skinprom start
+[0123/225235.828:INFO:skin_prom_main.cpp(137)] skinprom end
+[0123/225905.635:INFO:skin_prom_main.cpp(112)] skinprom start
+[0123/225906.070:INFO:skin_prom_main.cpp(137)] skinprom end
+[0125/160119.345:INFO:skin_prom_main.cpp(112)] skinprom start
+[0125/160119.653:INFO:skin_prom_main.cpp(137)] skinprom end
+[0125/161239.773:INFO:skin_prom_main.cpp(112)] skinprom start
+[0125/161240.084:INFO:skin_prom_main.cpp(137)] skinprom end

@@ -1,0 +1,13 @@
+[0201/162751.957:INFO:skin_prom_main.cpp(112)] skinprom start
+[0201/162804.288:ERROR:url_resource_cache.cpp(87)] Get or Create error: https://ime-store-cdn.gtimg.com/pc/uploadImage/2024/01/18/17055843269283_former.gif, 
+[0201/162804.288:ERROR:skin_prom_updater.cpp(264)] download bk_image error
+[0201/162804.289:ERROR:skin_prom_updater.cpp(170)] dl res
+[0201/162804.289:INFO:skin_prom_main.cpp(137)] skinprom end
+[0201/175623.930:INFO:skin_prom_main.cpp(112)] skinprom start
+[0201/175624.373:INFO:skin_prom_main.cpp(137)] skinprom end
+[0201/211628.521:INFO:skin_prom_main.cpp(112)] skinprom start
+[0201/211628.897:INFO:skin_prom_main.cpp(137)] skinprom end
+[0213/114521.139:INFO:skin_prom_main.cpp(112)] skinprom start
+[0213/114521.576:INFO:skin_prom_main.cpp(137)] skinprom end
+[0213/175115.446:INFO:skin_prom_main.cpp(112)] skinprom start
+[0213/175115.938:INFO:skin_prom_main.cpp(137)] skinprom end
